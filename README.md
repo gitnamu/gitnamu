@@ -20,7 +20,7 @@
 
 - 💻 &nbsp; Java | C++ | C
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+- 🌐 &nbsp; HTML | CSS | JavaScript | PHP
 
 - 🔧 &nbsp; Git | Markdown
 
@@ -31,7 +31,7 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitnamu&show_icons=true)
+<p align="right"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitnamu&show_icons=true) </p>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=skagh1750)](https://solved.ac/skagh1750)
 
