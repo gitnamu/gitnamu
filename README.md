@@ -31,10 +31,9 @@
 
 <br/>
 
+[![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=gitnamu&show_icons=true) {:.alignleft}
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitnamu&show_icons=true" />
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=skagh1750)](https://solved.ac/skagh1750)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=skagh1750)](https://solved.ac/skagh1750) {:.aligncenter}
 
 <br>
 
