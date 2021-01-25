@@ -51,14 +51,11 @@
 
 <p align="center">
 
- <a href="mailto:skagh1750@gmail.com">
-    <img align="left" alt=" gitnamu | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
-
-
 </p>
 <br>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=gitnamu.gitnamu)
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=gitnamu.gitnamu) <a href="mailto:skagh1750@gmail.com">
+    <img align="left" alt=" gitnamu | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
 
 
