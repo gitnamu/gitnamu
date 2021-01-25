@@ -35,7 +35,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=skagh1750)](https://solved.ac/skagh1750)
 
-<br>
+<br><br>
 
 
 
