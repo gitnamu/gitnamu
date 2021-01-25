@@ -66,7 +66,7 @@
 
 <p align="center">
 
-<a href="mailto:201701982@o.cnu.ac.kr"><img alt="Email" src="https://img.shields.io/badge/Email-201701982@o.cnu.ac.kr-green?style=flat-square&logo=gmail"></a>
+<a href="mailto:skagh1750@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-skagh1750@gmail.com-green?style=flat-square&logo=gmail"></a>
 
 </p>
 
