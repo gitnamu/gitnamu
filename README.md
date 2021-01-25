@@ -41,17 +41,6 @@
 
 <hr>
 
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-
-<p align="center">
-
-</p>
 <br>
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=gitnamu.gitnamu) <a href="mailto:skagh1750@gmail.com">
