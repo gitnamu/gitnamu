@@ -22,11 +22,8 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
 
-<!--
-
 - 🔧 &nbsp; Git | Markdown
 
--->
 
 <hr>
 
