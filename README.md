@@ -3,7 +3,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/34561570/105688503-06672980-5f3d-11eb-8229-7b370f4175d9.gif" width="230">
 
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 💻 About Me 💻</h3>
 
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Chungnam Nataional University.
@@ -63,11 +63,5 @@
 
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=gitnamu.gitnamu)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
-
-<hr>
 
 
