@@ -29,7 +29,7 @@
 
 
 
-<br/>
+<br>
 
 <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitnamu&show_icons=true" />
 
