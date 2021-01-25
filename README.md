@@ -66,7 +66,10 @@
 
 <p align="center">
 
-<a href="mailto:skagh1750@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-skagh1750@gmail.com-green?style=flat-square&logo=gmail"></a>
+ <a href="mailto:skagh1750@gmail.com">
+    <img align="left" alt=" gitnamu | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+
 
 </p>
 
