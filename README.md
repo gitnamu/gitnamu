@@ -1,6 +1,6 @@
 ### Hi there  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"><h2> I'm gitnamu</h2>
 
-<img align='right' src="https://user-images.githubusercontent.com/34561570/105687965-68735f00-5f3c-11eb-8486-96a968ff887c.png" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/34561570/105687965-68735f00-5f3c-11eb-8486-96a968ff887c." width="230">
 
 
 <h3> 👨🏻•💻 About Me </h3>
