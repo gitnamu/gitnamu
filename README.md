@@ -31,7 +31,7 @@
 
 <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitnamu&show_icons=true" />
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=fldhghkr)](https://solved.ac/fldhghkr)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=skagh1750)](https://solved.ac/skagh1750)
 
 <br><br>
 
