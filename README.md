@@ -16,7 +16,7 @@
 
 
 
-- 💻 &nbsp; Java | C++ | C
+- 💻 &nbsp; Java | C++ | C | 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | PHP
 
