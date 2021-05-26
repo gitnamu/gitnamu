@@ -7,9 +7,7 @@
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Chungnam Nataional University.
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
 
 <h3>🛠 Tech Stack</h3>
